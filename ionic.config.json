@@ -1,0 +1,7 @@
+{
+  "name": "datetime-min-max-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
